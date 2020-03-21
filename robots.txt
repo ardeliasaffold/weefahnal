@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ielahkeiyu.emjacobsson.me/sitemap.xml
